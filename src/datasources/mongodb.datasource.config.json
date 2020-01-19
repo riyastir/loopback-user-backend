@@ -1,11 +1,11 @@
 {
   "name": "mongodb",
   "connector": "mongodb",
-  "url": "mongodb://admin:aybpr3731l@localhost:27017/users",
+  "url": "mongodb://admin:password@localhost:27017/users",
   "host": "localhost",
   "port": 27017,
   "user": "admin",
-  "password": "aybpr3731l",
+  "password": "password",
   "database": "users",
   "useNewUrlParser": true
 }
